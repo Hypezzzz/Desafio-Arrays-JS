@@ -1,3 +1,3 @@
 # Desafio Javascript - Arrays
 
-[Ver Desafio](https://github.com/Hypezzzz/Desafio-Arrays-JS)
+[Ver Desafio](https://hypezzzz.github.io/Desafio-Arrays-JS/)
